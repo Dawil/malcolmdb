@@ -1,0 +1,6 @@
+bower:
+  image: dockerfile/nodejs-bower-grunt
+  volumes:
+    - .:/wd
+  working_dir: /wd
+  command: bower --allow-root

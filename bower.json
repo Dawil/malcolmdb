@@ -1,0 +1,15 @@
+{
+  "name": "malcolmdb",
+  "version": "0.0.0",
+  "description": "A simple client side DB *layer* that separates using data locally from retrieving it remotely with an extensible architecture.",
+  "main": "lib/malcolmdb.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
